@@ -1,3 +1,7 @@
 .course-content ul li.section.main.current {
     padding-top: 1.5em
 }
+
+div.availabilityinfo {
+    display: none;
+}
